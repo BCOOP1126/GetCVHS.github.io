@@ -108,7 +108,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #4CBB17;
+  color: #73C4F0;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -125,7 +125,7 @@ hr {
   padding: 80px 150px;
   background: #fff;
   border: 1px solid #d8d4d0;
-  border-top: 4px solid #4CBB17;
+  border-top: 4px solid #73C4F0;
   border-radius: 0px 0px 5px 5px;
   -moz-border-radius: 0px 0px 5px 5px;
   -webkit-box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.35);
