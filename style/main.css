@@ -346,22 +346,22 @@ hr {
     background: #fff url('../img/unionmill.png');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/madison.png');
+    background: #fff url('../img/lanier.png');
     background-size: cover; }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/centreville.png');
+    background: #fff url('../img/robo.png');
     background-size: cover; }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/westfield.png');
+    background: #fff url('../img/stone.png');
     background-size: cover; }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/tj.png');
+    background: #fff url('../img/liberty.png');
     background-size: cover; }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/south lakes.jpg');
+    background: #fff url('../img/cvillehs.png');
     background-size: cover; }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/ryan.jpg');
+    background: #fff url('../img/vt.png');
     background-size: cover; }
 
 @-webkit-keyframes appear {
